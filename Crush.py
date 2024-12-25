@@ -178,7 +178,7 @@ def main():
                 print('\nFind out. \n')
                 end()
             case 'yes':
-                define_seeing = ask_question('Are they casually dating someone (1) or are they in a relationship together (2) or are they hooking up with someone? (3) \n\n',['1','2','3'])
+                define_seeing = ask_question('\nAre they casually dating someone (1) or are they in a relationship together (2) or are they hooking up with someone? (3) \n\n',['1','2','3'])
                 if define_seeing == '3':
                     i_ran_out_of_name_ideas_lol()
                 elif define_seeing == '2':
