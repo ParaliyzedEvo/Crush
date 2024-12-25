@@ -167,7 +167,7 @@ def irdk():
         if you_sure == 'no':
             no2()
         elif you_sure == 'yes':
-            print('\nTell them (either the best relationship of yoru life and you\'ll be married or make things incredibly awkward and uncomfortable for yourself everyday when you\'re forced to see them. \n)')
+            print('\nTell them (either the best relationship of yoru life and you\'ll be married or make things incredibly awkward and uncomfortable for yourself everyday when you\'re forced to see them. \n')
             end()
 
 def main():
