@@ -2,7 +2,7 @@
 import time
 
 # The disclaimer
-print('==========================================================================================================================================================================================\n')
+print('================================================================================================================================================================================================================================================\n')
 print('DISCLAIMER!!!!!\n')
 print('All opinions on wether you should as your crush out are NOT mine and opinions of a Youtuber by the name of Crystal.\n')
 print('Don\'t take her advice/guidance seriously (but I would recommend as her advice on things are really helpful!) \n')
@@ -14,7 +14,7 @@ print('Crystal\'s Youtube Channel: https://www.youtube.com/@888_crystal \n')
 print('Crystal\'s Youtube Video of where I got the idea from: https://www.youtube.com/watch?v=hpwyjcd3Ioc \n')
 print('Source code: https://github.com/ParaliyzedEvo/Simulation \n')
 print('Website: https://paraliyzed.net \n')
-print('==========================================================================================================================================================================================\n')
+print('================================================================================================================================================================================================================================================\n')
 
 print('Should you tell your crush you like them? \n')
 
