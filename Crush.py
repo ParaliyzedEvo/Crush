@@ -238,7 +238,7 @@ def main():
                                         time.sleep(1)
                                         exit()
                         case 'school':
-                            often = ask_question('\nDo you see your crush often? (No as in big campus/school, different majors. Yes as in you guys are in the same classes.) \n',['yes','no'])
+                            often = ask_question('\nDo you see your crush often? (No as in big campus/school, different majors. Yes as in you guys are in the same classes.) \n\n',['yes','no'])
                             if often == 'no':
                                 yes()
                             elif often == 'yes':
