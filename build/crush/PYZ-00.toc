@@ -1,4 +1,4 @@
-('C:\\Users\\Paraliyzed_evo\\Documents\\Codes that I actually '
+('C:\\Users\\paral\\Documents\\Codes that I actually '
  'wrote\\Python\\Crush\\build\\crush\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\Paraliyzed_evo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
